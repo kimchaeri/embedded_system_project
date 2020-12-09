@@ -38,7 +38,7 @@
 <img src=https://user-images.githubusercontent.com/74261590/101539120-57e54480-39e1-11eb-9427-0cf46fa2a79f.png>
 
 # 전체 시스템 소프트웨어 구성도
-<img src=https://user-images.githubusercontent.com/74261590/101539204-7ea37b00-39e1-11eb-9434-0dd9b08ca3cb.png>
+<img src=https://user-images.githubusercontent.com/74261590/101615614-aa5e4980-3a51-11eb-8184-4fddb0dc44a7.png>
 
 # 구현 상의 제약사항
 * 유년기 단계의 개복치부터는 3개의 스레드가, 노년기 단계에서는 4개의 스레드가 동시에 돌아감
